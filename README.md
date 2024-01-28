@@ -68,3 +68,24 @@ Use the [included lab](./lab.md) for this week to apply the concepts you've lear
 - [Web Applications and Command-Line tools for Data Engineering](https://www.coursera.org/learn/web-app-command-line-tools-for-data-engineering-duke)
 - [Python and Pandas for Data Engineering](https://www.coursera.org/learn/python-and-pandas-for-data-engineering-duke)
 - [Scripting with Python and SQL for Data Engineering](https://www.coursera.org/learn/scripting-with-python-sql-for-data-engineering-duke)
+
+
+# Rust Hello World Project
+
+This is a simple Rust project that prints "Hello, World!" to the console.
+
+## Configuration
+
+The project consists of a single file, `main.rs`, which contains the main function of the program. The main function is the entry point of the program and is responsible for printing "Hello, World!" to the console.
+
+## How to Use
+
+To run this project, you need to have Rust and Cargo installed on your machine. If you don't have them installed, you can download them from the [official Rust website](https://www.rust-lang.org/tools/install).
+
+Once you have Rust and Cargo installed, you can run the project by following these steps:
+
+1. Open a terminal.
+2. Navigate to the directory containing the project.
+3. Run the command `cargo run`.
+
+This will compile and run the program, and you should see "Hello, World!" printed to the console.
